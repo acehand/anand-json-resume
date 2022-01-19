@@ -1,0 +1,215 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Anand Chandrasekaran",
+    "label": "Senior Software Engineer at CrossBorder Solutions",
+    "email": "anandc.1988@gmail.com",
+    "summary": "Keen Engineer looking to discover new challenges, and to solve them by building creative, usable solutions ",
+    "location": {
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anand",
+        "website": "https://www.linkedin.com/in/anand-chandrasekaran-3b931829/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CrossBorder Solutions",
+      "position": "Senior Software Engineer",
+      "startDate": "2021-06-30",
+      "website": "https://www.linkedin.com/company/1171",
+      "highlights": [
+        "Responsible for architecting and managing feature development for the RedTrac Product working as Interim Team Lead",
+        "Architected a new solution to switch their product from existing slow calculation process to a configuration based almost automated process.",
+        "Responsible for managing Git, terraform and handle releases for Redtrac product"
+      ],
+      "keywords" : ["Javascript", "Aws Lambda", "Terraform", "serverless", "reactJs"]
+    },
+    {
+      "company": "Lookbooks Media (acquired by Great Bowery)",
+      "position": "VP Software Engineering",
+      "startDate": "2015-09-30",
+      "endDate": "2021-05-31",
+      "highlights": [
+        "Architected and built Lookbook's Invoicing App an end to end Saas product using EmberJS/PHP/Mysql",
+        "Worked with clients to come up with ways to improve existing product and to come up with new ventures",
+        "Responsible for Assigning responsibilities to our team members and to ensure that things are getting done on time.",
+        "Was responsible for managing GIT related to the Invoicing Product",
+        "Spent time researching how the Invoicing Product can be verticalized to other industries"
+      ],
+      "keywords": [
+        "emberJS",
+        "CakePhP",
+        "Sphinx Search",
+        "Mysql", 
+        "circleCi"
+      ],
+      "website": "https://www.linkedin.com/company/1496639"
+    },
+    {
+      "company": "Lookbooks.com",
+      "position": "Software Engineer",
+      "startDate": "2011-09-30",
+      "endDate": "2015-09-30",
+      "highlights": [
+        "Built a data ingester in C# to move data of new clients on to the Lookbooks platform",
+        "Was part of the support team, working closely with clients and helped identify any new or on going issues with the software"
+      ],
+      "website": "https://www.linkedin.com/company/1496639"
+    },
+    {
+      "company": "Polytechnic Institute of New York University",
+      "position": "Graduate Assitant - Games for learning institute",
+      "startDate": "2010-09-30",
+      "endDate": "2012-05-31",
+      "highlights": [
+        "Worked in the Kinect SDK to build an experiment called the columbia project for Microsoft to find  out the  effectiveness of reading a book to a kid via Kinect.",
+        "Partnered with Microsoft to build games that will help kids learn mathematics. The games included Block games, Noobs(quadrilateral) game (to learn angles)"
+      ],
+      "keywords": [
+        "C#",
+        "Kinect Sdk"
+      ],
+      "website": "https://www.linkedin.com/company/11313"
+    },
+    {
+      "company": "LeadPlace",
+      "position": "Back End Developer",
+      "startDate": "2011-05-31",
+      "endDate": "2011-09-30",
+      "highlights": [
+        "Worked as a lead back end developer to build their API using PHP (CodeIgniter) and Mysql",
+        "Worked in integrating with various third party JS Apis like Location Autocomplete etc"
+      ],
+      "keywords": [
+        "Javascript",
+        "CodeIgniter PhP"
+      ],
+      "website": "https://www.linkedin.com/company/1714128"
+    }
+ 
+  ],
+  "volunteer": [
+    {
+      "organization": "Betaville @ NYU",
+      "website": "https://urbanomnibus.net/2011/01/betaville/",
+      "startDate": "2011-01-31",
+      "endDate": "2012-05-31",
+      "summary": "Developer for the participatory urban planning project (Betaville) empowering citizens to modify their own habitats to the community needs using Java and jMonkeyEngine",
+      "keywords": [
+        "Java",
+        "jMonkeyEngine"
+      ]
+    },
+    {
+      "organization": "Reinvent Nyc Hackathon - 2012",
+      "startDate": "2012-04-04",
+      "endDate": "2012-04-04",
+      "summary": "Developed a social layer that helps the nyc.gov website to better communicate with people and address emergency situations by using social apps.Our team won the best use of social",
+      "keywords": [
+        "Ruby on rails", "Javascript", "heroku"
+      ]
+    },
+    {
+      "organization": "Parrot Drone Browser Control (Game Hack Day - 2011)",
+      "startDate": "2011-03-23",
+      "endDate": "2012-03-25",
+      "summary": "Implemented a browser interface to control the parrot AR Drone. Presented as  Hack of the month at New york Tech meet up (2011)",
+      "keywords": [
+        "linux, Parrot Drone Sdk, bash"
+      ]
+    },
+    {
+      "name": "Marketplace project",
+      "startDate": "2011-03-05",
+      "endDate": "2012-03-31",
+      "website": "https://movements.org",
+      "description": "Developing an online marketplace to connect digital activists across the globe for the nonprofit; working with a team of student engineers, UX and UI designers",
+      "keywords": [
+        "PHP, Javascript"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "NYU Polytechnic School of Engineering",
+      "area": "Computer Science",
+      "studyType": "Master of Science (MS)",
+      "startDate": "2010-08-01",
+      "endDate": "2012-05-01",
+      "courses": ["Software engineering", "Advanced Dbms", "Design Analysis and Alogrithms"]
+    },
+    {
+      "institution": "St Joseph's College of Engineering - Anna University",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2006-06-01",
+      "endDate": "2010-05-04"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Javascript",
+        "nodeJs",
+        "PHP",
+        "C#",
+        "Ruby",
+        "Java, HTML/CSS"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "EmberJS",
+        "ReactJs",
+        "Jquery",
+        "cakePhp", "codeIgniter",
+        "Quickbooks SDK"
+      ]
+    },
+    {
+      "name": "Database and Tooling",
+      "keywords": [
+        "MySql",
+        "GIT",
+        "Redis",
+        "Postgres",
+        "Firebase",
+        "Dynamo DB",
+        "Terraform",
+        "Aws Lambda, Aws S3",
+        "Sphinx Search",
+        "Quickbooks, Netsuite",
+        "Adobe Lightroom"
+      ]
+    },
+    {
+      "name": "Currently Hacking",
+      "keywords": [
+        "Typescript",
+        "Flutter",
+        "svelte"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography|Snowboarding|Traveling|Badminton|hackingnewlanguages"
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "theme": "stackoverflow",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
